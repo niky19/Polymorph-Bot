@@ -6,7 +6,7 @@ class PolymorphBotApplication {
 
         @JvmStatic
         fun main(args: Array<String>) {
-            val token = "MTE1MTkzNjQwNTExOTk3OTU5Mw.Giang2.XgHtUT5mDE0--DpEAN0xZzKQ6dIrwm-V0MNViU"
+            val token = "token"
 
             //Create a new JDA instance
             val jda = JDABuilder.createDefault(token)
